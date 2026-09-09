@@ -1,4 +1,4 @@
-# Calgo
+# MathForge
 
 A learning-focused numerical-computing toolkit for calculus, linear algebra,
 numerical methods, and statistics. The console interface is C++, while
