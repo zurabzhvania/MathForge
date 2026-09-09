@@ -1,2 +1,2 @@
 # MathForge
-Mastering Algorithms and Data Structures with C
+Mathematical Toolkit for science project
